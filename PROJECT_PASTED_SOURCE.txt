@@ -1,6 +1,0 @@
-PASTED SOURCE ARCHIVE
-====================
-
-This file preserves the exact long-form pasted project/source content from the chat for manual splitting into files where needed.
-
-[The companion repo already includes the scaffolded file structure and key files.]
